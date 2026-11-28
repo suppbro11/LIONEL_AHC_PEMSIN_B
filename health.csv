@@ -1,0 +1,171 @@
+Test_Date;Device_Name;Brand;Model;Category;Price_USD;Battery_Life_Hours;Heart_Rate_Accuracy_Percent;Step_Count_Accuracy_Percent;Sleep_Tracking_Accuracy_Percent;Water_Resistance_Rating;User_Satisfaction_Rating;GPS_Accuracy_Meters;Connectivity_Features;Health_Sensors_Count;App_Ecosystem_Support;Performance_Score
+45809;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;141.74;129.9;89.69;93.03;78.91;3ATM;6.5;;Bluetooth, WiFi;5;Cross-platform;68.4
+45809;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;185.56;150.5;89.15;93.79;74.24;3ATM;6.5;;Bluetooth;8;Cross-platform;68.0
+45809;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;70.61;114.5;88.96;96.7;76.45;IPX7;7.5;;Bluetooth, WiFi;6;Android/iOS;70.1
+45809;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;293.02;229.7;94.79;95.9;70.7;IPX4;7.2;;Bluetooth;9;Cross-platform;70.7
+45809;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;161.99;200.9;92.2;95.87;73.63;IPX7;6.2;;Bluetooth, WiFi;6;Cross-platform;68.7
+45809;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;251.31;132.2;88.94;96.59;74.85;IPX7;7.8;;Bluetooth;8;Cross-platform;70.8
+45809;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;240.97;108.3;88.09;93.97;70.21;3ATM;7.7;;Bluetooth;9;Cross-platform;68.4
+45809;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;105.27;139.9;93.3;94.15;79.25;IPX4;7.8;;Bluetooth;7;Android/iOS;72.3
+45809;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;100.81;123.0;94.48;93.36;70.49;3ATM;7.3;;Bluetooth;6;Android/iOS;69.2
+45809;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;219.31;192.3;92.91;94.68;74.49;IPX7;8.2;;Bluetooth;6;Cross-platform;72.8
+45810;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;264.8;192.5;89.98;95.46;72.5;IPX7;7.3;;Bluetooth;7;Cross-platform;70.2
+45810;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;118.91;102.2;88.92;95.3;72.29;IPX4;7.4;;Bluetooth, WiFi;9;Cross-platform;68.5
+45810;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;201.36;169.0;89.88;94.66;74.52;3ATM;8.2;;Bluetooth, WiFi;8;Cross-platform;72.2
+45810;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;299.54;145.4;89.75;95.86;76.46;IPX7;7.3;;Bluetooth;10;Cross-platform;70.5
+45810;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;221.52;161.4;92.18;93.67;79.79;IPX7;7.4;;Bluetooth;9;Cross-platform;71.8
+45810;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;181.82;200.0;88.85;94.47;77.55;3ATM;7.5;;Bluetooth;8;Cross-platform;71.2
+45810;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;305.66;183.7;89.74;95.75;77.2;3ATM;8.3;;Bluetooth;6;Cross-platform;73.1
+45810;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;238.48;149.2;92.67;96.6;74.65;IPX7;8.0;;Bluetooth;8;Cross-platform;72.3
+45810;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;229.06;150.3;91.57;95.83;76.48;IPX7;7.7;;Bluetooth;5;Cross-platform;71.8
+45810;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;106.18;146.7;92.91;96.65;71.02;IPX4;6.3;;Bluetooth, WiFi;9;Android/iOS;68.2
+45810;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;176.98;89.0;93.14;96.52;72.68;IPX4;6.3;;Bluetooth;10;Cross-platform;67.2
+45811;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;115.08;109.4;91.28;93.73;77.45;IPX7;6.1;;Bluetooth, WiFi;5;Cross-platform;67.3
+45811;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;126.73;157.4;94.87;95.54;77.94;IPX7;7.8;;Bluetooth, WiFi;8;Cross-platform;73.0
+45811;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;88.64;74.4;88.87;94.59;73.54;3ATM;6.4;;Bluetooth, WiFi;10;Cross-platform;66.0
+45812;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;274.0;85.6;88.08;95.99;78.11;3ATM;7.2;;Bluetooth;7;Android/iOS;68.9
+45812;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;219.02;138.3;92.55;95.85;78.17;IPX4;7.8;;Bluetooth;6;Cross-platform;72.2
+45812;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;265.89;96.8;92.77;93.26;77.19;3ATM;7.4;;Bluetooth, WiFi;5;Cross-platform;69.7
+45812;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;295.64;106.4;90.89;96.98;70.73;3ATM;8.5;;Bluetooth;10;Cross-platform;71.3
+45812;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;182.24;89.0;93.12;93.59;75.66;3ATM;7.3;;Bluetooth;9;Cross-platform;69.2
+45812;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;247.79;137.7;92.38;95.72;74.42;IPX7;7.9;;Bluetooth;8;Cross-platform;71.6
+45813;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;295.87;136.1;90.09;93.22;78.54;IPX4;8.5;;Bluetooth;9;Cross-platform;72.6
+45813;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;141.9;98.5;90.17;94.45;74.09;3ATM;7.6;;Bluetooth;10;Cross-platform;69.3
+45813;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;327.37;95.9;90.74;96.82;74.62;IPX4;7.2;;Bluetooth;6;Cross-platform;69.1
+45813;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;177.09;116.3;94.83;95.3;72.93;IPX4;7.6;;Bluetooth;8;Cross-platform;70.6
+45813;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;190.57;74.0;89.54;96.23;78.62;IPX7;6.2;;Bluetooth, WiFi;5;Cross-platform;67.0
+45813;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;99.82;173.1;94.82;96.62;74.67;IPX7;6.6;;Bluetooth, WiFi;7;Cross-platform;70.4
+45813;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;225.13;144.5;92.58;95.43;74.34;IPX4;7.2;;Bluetooth;6;Cross-platform;70.3
+45813;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;162.46;179.0;91.48;95.92;78.23;3ATM;6.2;;Bluetooth, WiFi;8;Cross-platform;69.5
+45814;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;192.02;134.7;89.25;94.21;72.09;3ATM;6.7;;Bluetooth;7;Android/iOS;67.7
+45814;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;143.97;111.4;93.68;93.41;74.2;IPX4;6.6;;Bluetooth;8;Android/iOS;68.1
+45814;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;253.63;227.2;90.93;94.9;75.44;IPX4;7.6;;Bluetooth;8;Cross-platform;71.5
+45814;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;50.23;218.8;92.2;93.95;76.61;IPX7;7.4;;Bluetooth, WiFi;10;Cross-platform;71.4
+45814;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;318.92;237.1;88.83;94.96;74.96;3ATM;8.1;;Bluetooth;8;Cross-platform;72.0
+45814;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;102.44;166.0;94.99;96.76;73.82;IPX4;7.9;;Bluetooth, WiFi;6;Cross-platform;72.9
+45814;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;187.58;154.4;92.28;95.84;70.39;3ATM;6.5;;Bluetooth;9;Cross-platform;68.4
+45814;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;280.26;139.4;88.46;96.65;75.67;3ATM;7.5;;Bluetooth;8;Cross-platform;70.5
+45815;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;102.32;145.5;92.4;95.37;70.28;3ATM;7.1;;Bluetooth, WiFi;9;Cross-platform;69.3
+45815;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;278.37;193.8;88.7;93.57;76.57;3ATM;7.0;;Bluetooth, WiFi;6;Cross-platform;69.8
+45815;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;145.97;86.2;89.56;95.17;73.71;IPX4;6.6;;Bluetooth;8;Android/iOS;66.9
+45815;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;210.46;163.7;91.38;94.32;75.47;IPX7;7.1;;Bluetooth;8;Cross-platform;70.3
+45815;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;321.21;169.6;92.84;95.75;71.55;IPX4;7.4;;Bluetooth;10;Cross-platform;70.8
+45815;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;258.41;232.8;92.29;95.59;74.56;IPX4;8.5;;Bluetooth;9;Cross-platform;73.5
+45815;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;207.29;162.6;91.62;96.59;79.61;IPX4;7.7;;Bluetooth;9;Cross-platform;72.8
+45815;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;284.16;116.1;93.93;93.32;76.68;IPX4;8.0;;Bluetooth, WiFi;8;Cross-platform;71.6
+45815;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;261.19;188.2;91.13;94.88;77.57;3ATM;8.4;;Bluetooth, WiFi;10;Cross-platform;73.5
+45815;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;327.38;217.0;88.62;96.92;76.81;IPX4;8.0;;Bluetooth, WiFi;5;Cross-platform;72.5
+45815;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;212.37;204.5;93.46;94.08;79.33;IPX7;8.4;;Bluetooth, WiFi;7;Android/iOS;74.2
+45816;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;53.38;126.5;92.45;95.38;73.57;IPX4;7.1;;Bluetooth;6;Android/iOS;69.5
+45816;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;304.61;99.7;88.02;94.56;79.27;IPX7;7.4;;Bluetooth;10;Cross-platform;69.5
+45816;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;98.68;74.7;91.05;95.55;71.47;3ATM;7.6;;Bluetooth, WiFi;10;Cross-platform;68.6
+45816;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;171.88;236.9;91.71;96.57;77.64;IPX7;7.1;;Bluetooth;6;Cross-platform;71.4
+45816;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;159.97;180.3;90.04;93.25;78.72;IPX4;7.7;;Bluetooth;7;Cross-platform;71.8
+45816;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;79.78;228.8;88.56;95.57;75.25;3ATM;7.1;;Bluetooth;10;Cross-platform;70.1
+45816;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;174.34;232.9;91.15;96.24;78.37;3ATM;6.2;;Bluetooth;5;Android/iOS;69.6
+45817;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;201.14;199.4;92.83;95.58;74.91;IPX4;7.1;;Bluetooth;10;Cross-platform;70.9
+45817;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;83.72;121.7;90.05;96.03;78.43;IPX7;7.5;;Bluetooth;8;Cross-platform;70.8
+45817;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;276.39;136.0;92.12;95.97;77.62;3ATM;7.9;;Bluetooth;7;Cross-platform;72.2
+45817;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;280.87;104.0;88.68;94.72;74.24;IPX7;8.3;;Bluetooth;10;Cross-platform;70.6
+45817;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;238.94;139.8;92.15;96.48;75.96;3ATM;7.3;;Bluetooth, WiFi;7;Cross-platform;70.8
+45818;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;91.81;194.3;88.58;96.01;78.43;IPX7;7.8;;Bluetooth;8;Cross-platform;72.2
+45818;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;92.49;139.5;91.27;94.39;72.92;3ATM;7.5;;Bluetooth;9;Cross-platform;70.0
+45818;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;272.68;91.2;88.38;95.4;71.56;3ATM;7.4;;Bluetooth;5;Cross-platform;68.0
+45818;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;320.82;78.2;91.45;95.82;76.06;IPX4;7.3;;Bluetooth, WiFi;8;Cross-platform;69.1
+45818;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;166.12;161.9;93.73;93.44;71.8;IPX4;7.8;;Bluetooth, WiFi;8;Android/iOS;71.2
+45818;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;221.8;211.2;93.47;93.89;73.54;IPX4;7.3;;Bluetooth;9;Cross-platform;70.8
+45818;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;155.48;144.2;89.78;93.12;71.2;IPX4;6.7;;Bluetooth, WiFi;6;Cross-platform;67.7
+45818;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;199.12;120.6;88.7;95.36;73.67;IPX7;6.8;;Bluetooth;5;Cross-platform;68.0
+45819;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;198.91;204.8;91.18;94.07;72.22;IPX7;6.5;;Bluetooth;9;Cross-platform;68.5
+45819;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;300.87;88.8;91.53;93.92;75.76;IPX4;7.6;;Bluetooth;7;Cross-platform;69.6
+45819;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;172.07;116.2;92.95;93.78;74.04;IPX4;6.4;;Bluetooth;9;Cross-platform;67.7
+45819;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;127.54;177.5;88.84;95.7;75.12;3ATM;6.1;;Bluetooth, WiFi;8;Cross-platform;68.1
+45819;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;241.26;195.9;93.27;96.48;77.03;3ATM;8.1;;Bluetooth;7;Cross-platform;73.6
+45819;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;193.87;221.8;92.14;93.6;75.74;IPX4;6.8;;Bluetooth;8;Android/iOS;69.9
+45819;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;272.49;171.1;88.13;93.41;78.77;IPX7;8.0;;Bluetooth;9;Cross-platform;72.1
+45819;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;250.58;196.7;94.06;94.44;73.29;IPX4;8.1;;Bluetooth;5;Cross-platform;72.6
+45819;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;125.28;208.9;91.86;95.48;77.37;IPX7;7.7;;Bluetooth, WiFi;5;Cross-platform;72.3
+45819;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;117.64;89.7;90.63;95.28;78.54;IPX4;6.8;;Bluetooth;5;Cross-platform;68.6
+45819;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;212.51;143.5;89.99;94.55;78.21;IPX4;7.4;;Bluetooth, WiFi;6;Android/iOS;70.8
+45820;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;289.94;177.7;89.91;96.66;77.0;IPX4;7.6;;Bluetooth, WiFi;7;Cross-platform;71.9
+45820;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;259.51;212.4;92.25;94.63;76.72;IPX4;8.2;;Bluetooth;9;Cross-platform;73.1
+45820;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;131.85;210.4;93.19;96.04;78.67;IPX4;7.0;;Bluetooth;7;Cross-platform;71.6
+45820;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;238.75;80.2;89.51;94.31;71.47;IPX4;8.1;;Bluetooth;7;Cross-platform;69.2
+45820;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;223.89;167.5;92.16;96.05;71.48;IPX7;7.0;;Bluetooth, WiFi;9;Cross-platform;69.9
+45820;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;175.65;239.0;94.85;94.3;75.45;IPX4;6.5;;Bluetooth, WiFi;7;Cross-platform;69.9
+45821;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;228.57;200.1;94.28;96.25;70.89;IPX4;7.1;;Bluetooth;5;Cross-platform;70.5
+45821;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;314.11;208.5;93.5;96.62;76.51;IPX7;7.2;;Bluetooth, WiFi;9;Cross-platform;71.7
+45821;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;220.9;203.4;90.5;96.62;73.81;3ATM;8.0;;Bluetooth;6;Cross-platform;72.2
+45821;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;211.27;177.4;88.61;96.97;79.08;IPX4;7.2;;Bluetooth;7;Cross-platform;71.3
+45821;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;237.44;94.0;89.47;96.88;72.17;3ATM;8.5;;Bluetooth;6;Android/iOS;70.9
+45821;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;258.43;169.1;92.14;94.09;75.66;3ATM;7.7;;Bluetooth;5;Cross-platform;71.8
+45821;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;242.0;148.7;88.68;96.42;77.63;IPX7;7.1;;Bluetooth;10;Android/iOS;70.3
+45822;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;231.82;201.1;91.19;96.54;75.76;3ATM;8.0;;Bluetooth;6;Cross-platform;72.7
+45822;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;102.32;114.0;93.84;95.5;75.42;IPX4;7.2;;Bluetooth;9;Cross-platform;70.1
+45822;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;182.72;127.6;91.26;93.25;78.33;IPX7;7.8;;Bluetooth;10;Cross-platform;71.2
+45822;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;121.04;149.4;94.69;96.33;74.49;IPX4;7.5;;Bluetooth, WiFi;5;Cross-platform;71.7
+45822;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;309.29;94.1;92.25;96.4;70.97;IPX4;7.3;;Bluetooth;7;Cross-platform;68.8
+45822;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;166.22;157.2;91.27;93.18;70.49;3ATM;6.5;;Bluetooth;7;Cross-platform;67.7
+45823;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;218.82;128.0;89.52;93.74;74.0;IPX7;7.9;;Bluetooth;5;Android/iOS;70.3
+45823;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;316.76;239.5;91.24;95.03;73.88;3ATM;8.5;;Bluetooth;7;Cross-platform;73.0
+45823;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;106.85;230.7;89.08;95.85;74.47;3ATM;7.2;;Bluetooth, WiFi;8;Cross-platform;70.3
+45823;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;292.64;86.3;88.67;93.53;78.2;IPX4;7.9;;Bluetooth;10;Android/iOS;69.9
+45823;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;130.06;235.9;92.03;93.55;78.36;IPX4;7.5;;Bluetooth;7;Android/iOS;71.8
+45823;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;191.59;126.2;88.68;94.95;76.91;IPX4;6.7;;Bluetooth;10;Cross-platform;68.5
+45823;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;168.67;148.0;92.31;95.7;75.62;IPX4;7.5;;Bluetooth;6;Cross-platform;71.2
+45824;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;237.47;178.2;88.38;95.1;73.19;3ATM;7.2;;Bluetooth;6;Cross-platform;69.7
+45824;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;208.23;80.1;94.5;93.21;72.37;IPX7;7.6;;Bluetooth;5;Cross-platform;69.1
+45824;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;79.35;130.4;92.24;94.48;70.83;3ATM;7.8;;Bluetooth;6;Cross-platform;70.2
+45824;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;285.77;117.7;94.14;95.04;71.47;IPX7;8.3;;Bluetooth;8;Cross-platform;71.5
+45824;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;235.04;232.8;89.28;96.35;75.79;IPX7;7.4;;Bluetooth;5;Cross-platform;71.1
+45824;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;273.83;171.0;89.01;95.21;78.93;IPX4;7.4;;Bluetooth, WiFi;10;Cross-platform;71.4
+45824;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;98.56;223.8;94.37;95.94;75.56;IPX7;7.6;;Bluetooth;5;Cross-platform;72.4
+45825;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;275.58;180.5;90.74;93.77;78.34;IPX4;7.3;;Bluetooth, WiFi;6;Cross-platform;71.2
+45825;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;209.33;190.8;92.53;93.99;78.83;IPX7;7.3;;Bluetooth, WiFi;5;Cross-platform;71.7
+45825;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;250.84;196.8;88.35;96.67;79.76;IPX4;7.7;;Bluetooth;8;Cross-platform;72.4
+45825;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;289.52;216.2;91.77;93.34;77.7;IPX4;7.7;;Bluetooth;6;Cross-platform;72.0
+45825;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;73.72;189.9;88.6;94.98;72.03;IPX4;7.6;;Bluetooth;10;Cross-platform;70.3
+45825;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;126.02;122.4;93.83;96.83;76.02;IPX4;7.2;;Bluetooth;10;Cross-platform;70.7
+45825;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;161.65;72.5;92.7;96.63;78.35;3ATM;7.0;;Bluetooth, WiFi;9;Cross-platform;69.3
+45825;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;133.86;114.6;91.28;93.27;76.92;3ATM;7.8;;Bluetooth, WiFi;7;Cross-platform;70.6
+45826;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;80.07;132.8;89.68;96.21;78.51;IPX7;6.6;;Bluetooth, WiFi;8;Cross-platform;69.2
+45826;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;268.04;236.4;91.24;95.88;74.24;IPX7;8.2;;Bluetooth;7;Cross-platform;72.7
+45826;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;143.66;204.8;93.53;94.69;73.55;IPX4;7.0;;Bluetooth;6;Cross-platform;70.4
+45827;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;134.76;162.4;93.96;93.17;75.74;IPX4;7.4;;Bluetooth;10;Cross-platform;71.2
+45827;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;292.33;175.2;94.41;95.48;75.6;3ATM;8.1;;Bluetooth;7;Cross-platform;73.3
+45827;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;252.09;209.2;89.42;94.16;73.02;IPX4;7.5;;Bluetooth, WiFi;8;Cross-platform;70.3
+45827;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;222.84;168.6;88.31;94.98;72.6;3ATM;8.3;;Bluetooth;10;Cross-platform;71.8
+45828;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;146.78;238.3;88.9;94.67;77.43;IPX7;7.9;;Bluetooth, WiFi;6;Android/iOS;72.0
+45828;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;130.79;124.8;90.88;95.84;71.26;3ATM;7.2;;Bluetooth;9;Cross-platform;69.0
+45828;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;82.12;211.6;90.92;96.06;74.7;IPX4;7.5;;Bluetooth;7;Cross-platform;71.3
+45828;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;145.98;179.2;93.66;96.41;79.07;3ATM;7.5;;Bluetooth;6;Cross-platform;72.8
+45828;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;101.61;195.9;94.45;95.14;78.22;IPX7;7.2;;Bluetooth;9;Cross-platform;72.0
+45829;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;148.25;192.0;89.04;96.41;71.31;IPX7;7.0;;Bluetooth, WiFi;6;Cross-platform;69.4
+45829;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;142.56;118.8;89.77;96.77;73.9;IPX7;6.8;;Bluetooth;5;Cross-platform;68.5
+45829;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;178.34;111.0;90.59;95.25;76.43;IPX7;6.3;;Bluetooth;5;Cross-platform;67.7
+45829;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;111.6;233.2;89.72;93.58;76.4;IPX4;6.6;;Bluetooth;8;Cross-platform;69.1
+45829;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;217.63;77.0;92.37;93.67;73.52;IPX7;7.6;;Bluetooth, WiFi;7;Cross-platform;68.9
+45829;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;112.5;187.6;90.03;95.33;72.85;IPX7;7.0;;Bluetooth;5;Cross-platform;69.6
+45829;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;238.76;151.4;89.65;93.91;71.77;3ATM;8.2;;Bluetooth, WiFi;10;Cross-platform;71.1
+45829;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;234.5;81.8;88.23;95.87;75.71;IPX7;8.1;;Bluetooth, WiFi;7;Cross-platform;70.1
+45830;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;164.39;143.9;92.73;96.56;73.88;IPX7;6.9;;Bluetooth;5;Cross-platform;69.9
+45830;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;176.27;118.4;93.72;93.47;77.49;IPX7;6.4;;Bluetooth;8;Cross-platform;68.6
+45830;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;202.76;161.5;91.59;93.3;74.38;3ATM;7.6;;Bluetooth, WiFi;8;Cross-platform;70.9
+45830;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;225.6;98.9;94.37;95.68;76.63;IPX4;7.2;;Bluetooth;9;Android/iOS;70.1
+45830;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;194.7;230.4;92.97;95.7;78.94;3ATM;6.6;;Bluetooth, WiFi;5;Android/iOS;70.7
+45830;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;113.47;136.6;93.18;94.2;71.3;IPX7;7.6;;Bluetooth, WiFi;5;Cross-platform;70.2
+45830;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;307.78;99.8;92.71;93.46;76.69;IPX7;7.9;;Bluetooth, WiFi;8;Cross-platform;70.7
+45831;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;208.78;168.6;92.31;93.4;72.85;IPX4;7.4;;Bluetooth;6;Cross-platform;70.5
+45831;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;254.75;166.2;94.26;93.79;77.23;3ATM;7.9;;Bluetooth;10;Cross-platform;72.8
+45831;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;186.36;118.3;91.79;95.08;76.73;IPX4;7.0;;Bluetooth;10;Cross-platform;69.5
+45831;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;221.66;77.7;94.01;93.13;74.07;IPX7;7.5;;Bluetooth;6;Android/iOS;69.1
+45832;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;282.58;166.3;92.49;93.81;75.93;IPX4;8.1;;Bluetooth;7;Android/iOS;72.6
+45832;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;208.87;199.1;89.42;96.42;74.85;IPX7;8.2;;Bluetooth, WiFi;6;Android/iOS;72.5
+45832;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;281.59;239.3;88.31;95.25;78.57;3ATM;8.4;;Bluetooth;6;Cross-platform;73.2
+45832;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;179.02;104.6;94.21;93.16;73.42;IPX4;7.9;;Bluetooth;6;Cross-platform;70.4
+45833;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;85.94;97.3;92.8;94.2;74.35;IPX7;7.7;;Bluetooth, WiFi;10;Android/iOS;70.0
+45833;Amazfit Band 7;Amazfit;Band 7;Fitness Tracker;107.29;103.1;94.45;94.9;77.95;IPX4;7.8;;Bluetooth;5;Cross-platform;71.5
+45833;Fitbit Inspire 4;Fitbit;Inspire 4;Fitness Tracker;203.21;176.8;94.33;94.59;76.35;IPX4;7.2;;Bluetooth, WiFi;10;Cross-platform;71.5
+45833;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;175.4;173.1;91.69;93.41;72.78;3ATM;7.9;;Bluetooth, WiFi;10;Cross-platform;71.4
+45833;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;199.4;111.0;90.81;96.78;78.55;IPX7;6.9;;Bluetooth;9;Cross-platform;69.7
+45833;Fitbit Charge 6;Fitbit;Charge 6;Fitness Tracker;156.48;108.4;89.27;94.34;75.0;3ATM;6.8;;Bluetooth;8;Cross-platform;67.9
